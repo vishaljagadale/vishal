@@ -10,6 +10,6 @@ const app = express();
 //app.use(productRouter);
 
 app.listen(3434, '0.0.0.0', () => {
-    console.log(' on port 3000');
+    console.log(' server started on port 3000');
 })
   
